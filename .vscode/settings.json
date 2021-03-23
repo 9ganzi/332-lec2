@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "time.h": "c",
+        "__locale": "c",
+        "__threading_support": "c",
+        "pthread.h": "c",
+        "__bit_reference": "c",
+        "__hash_table": "c",
+        "__split_buffer": "c",
+        "array": "c",
+        "initializer_list": "c",
+        "ios": "c",
+        "iterator": "c",
+        "string": "c",
+        "string_view": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "__string": "c",
+        "__tuple": "c",
+        "algorithm": "c",
+        "bitset": "c",
+        "cmath": "c",
+        "functional": "c",
+        "locale": "c",
+        "ratio": "c"
+    }
+}
